@@ -2,6 +2,7 @@
     "name": "tuto1902/activity",
     "type": "project",
     "minimum-stability": "dev",
+    "license": "MIT",
     "require": {},
     "autoload": {
         "psr-4": {
